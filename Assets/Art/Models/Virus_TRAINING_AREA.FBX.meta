@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: eecce34bac1d2ac40ad999333184d40a
+timeCreated: 1475679470
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Rails
+    100002: //RootNode
+    100004: DataLinesSTAGING_FLOOR
+    100006: DataLinesSTAGING_WALL
+    100008: DataLinesSTAGING_VERTICALA
+    100010: DataLinesSTAGING_VERTICALB
+    100012: DataLinesSTAGING_VERTICALC
+    100014: DataLinesSTAGING_VERTICALD
+    100016: DataLines_VERTICALA
+    100018: DataLines_VERTICALB
+    100020: DataLines_VERTICALC
+    100022: DataLines_VERTICALD
+    400000: Rails
+    400002: //RootNode
+    400004: DataLinesSTAGING_FLOOR
+    400006: DataLinesSTAGING_WALL
+    400008: DataLinesSTAGING_VERTICALA
+    400010: DataLinesSTAGING_VERTICALB
+    400012: DataLinesSTAGING_VERTICALC
+    400014: DataLinesSTAGING_VERTICALD
+    400016: DataLines_VERTICALA
+    400018: DataLines_VERTICALB
+    400020: DataLines_VERTICALC
+    400022: DataLines_VERTICALD
+    2300000: Rails
+    2300002: //RootNode
+    2300004: DataLinesSTAGING_FLOOR
+    2300006: DataLinesSTAGING_WALL
+    2300008: DataLinesSTAGING_VERTICALA
+    2300010: DataLinesSTAGING_VERTICALB
+    2300012: DataLinesSTAGING_VERTICALC
+    2300014: DataLinesSTAGING_VERTICALD
+    2300016: DataLines_VERTICALA
+    2300018: DataLines_VERTICALB
+    2300020: DataLines_VERTICALC
+    2300022: DataLines_VERTICALD
+    3300000: Rails
+    3300002: //RootNode
+    3300004: DataLinesSTAGING_FLOOR
+    3300006: DataLinesSTAGING_WALL
+    3300008: DataLinesSTAGING_VERTICALA
+    3300010: DataLinesSTAGING_VERTICALB
+    3300012: DataLinesSTAGING_VERTICALC
+    3300014: DataLinesSTAGING_VERTICALD
+    3300016: DataLines_VERTICALA
+    3300018: DataLines_VERTICALB
+    3300020: DataLines_VERTICALC
+    3300022: DataLines_VERTICALD
+    4300000: CityBlock
+    4300002: Rails
+    4300004: DataLinesSTAGING_FLOOR
+    4300006: DataLinesSTAGING_WALL
+    4300008: DataLinesSTAGING_VERTICALD
+    4300010: DataLinesSTAGING_VERTICALC
+    4300012: DataLinesSTAGING_VERTICALB
+    4300014: DataLinesSTAGING_VERTICALA
+    4300016: DataLines_VERTICALA
+    4300018: DataLines_VERTICALD
+    4300020: DataLines_VERTICALC
+    4300022: DataLines_VERTICALB
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

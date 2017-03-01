@@ -1,0 +1,897 @@
+WARNING:10.11:02:58: Logging enabled
+ERROR:10.11:02:58: Clip ThreatManager does not exist
+LOG:10.11:02:58: Attempting client connection
+LOG:10.11:02:58: Connecting to = 192.168.1.10
+LOG:10.11:02:58: GameManager: Checking level nameTutorialStage
+LOG:10.11:02:58: Beggining current player file search
+LOG:10.11:02:59: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:02:59: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:02:59: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:02:59: GameManager: Player name is empty
+LOG:10.11:03:00: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:00: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:00: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:00: GameManager: Player name is empty
+LOG:10.11:03:00: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:00: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:00: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:00: GameManager: Player name is empty
+LOG:10.11:03:01: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:01: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:01: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:01: GameManager: Player name is empty
+LOG:10.11:03:01: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:01: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:01: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:01: GameManager: Player name is empty
+LOG:10.11:03:02: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:02: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:02: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:02: GameManager: Player name is empty
+LOG:10.11:03:03: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:03: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:03: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:03: GameManager: Player name is empty
+LOG:10.11:03:03: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:03: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:03: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:03: GameManager: Player name is empty
+LOG:10.11:03:04: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:04: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:04: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:04: GameManager: Player name is empty
+LOG:10.11:03:04: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:04: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:04: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:04: GameManager: Player name is empty
+LOG:10.11:03:05: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:05: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:05: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:05: GameManager: Player name is empty
+LOG:10.11:03:06: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:06: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:06: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:06: GameManager: Player name is empty
+LOG:10.11:03:06: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:06: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:06: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:06: GameManager: Player name is empty
+LOG:10.11:03:07: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:07: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:07: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:07: GameManager: Player name is empty
+LOG:10.11:03:07: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:07: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:07: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:07: GameManager: Player name is empty
+LOG:10.11:03:08: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:08: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:08: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:08: GameManager: Player name is empty
+LOG:10.11:03:09: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:09: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:09: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:09: GameManager: Player name is empty
+LOG:10.11:03:09: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:09: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:09: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:09: GameManager: Player name is empty
+LOG:10.11:03:10: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:10: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:10: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:10: GameManager: Player name is empty
+LOG:10.11:03:10: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:10: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:10: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:11: GameManager: Player name is empty
+LOG:10.11:03:11: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:11: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:11: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:11: GameManager: Player name is empty
+LOG:10.11:03:12: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:12: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:12: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:12: GameManager: Player name is empty
+LOG:10.11:03:12: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:12: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:12: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:12: GameManager: Player name is empty
+LOG:10.11:03:13: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:13: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:13: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:13: GameManager: Player name is empty
+LOG:10.11:03:13: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:14: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:14: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:14: GameManager: Player name is empty
+LOG:10.11:03:14: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:14: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:14: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:14: GameManager: Player name is empty
+LOG:10.11:03:15: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:15: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:15: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:15: GameManager: Player name is empty
+LOG:10.11:03:15: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:15: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:15: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:15: GameManager: Player name is empty
+LOG:10.11:03:16: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:16: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:16: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:16: GameManager: Player name is empty
+ERROR:10.11:03:16: Failed to connect to server 
+LOG:10.11:03:16: Connecting to = 192.168.1.10
+LOG:10.11:03:17: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:17: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:17: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:17: GameManager: Player name is empty
+LOG:10.11:03:17: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:17: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:17: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:17: GameManager: Player name is empty
+LOG:10.11:03:18: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:18: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:18: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:18: GameManager: Player name is empty
+LOG:10.11:03:18: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:18: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:18: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:18: GameManager: Player name is empty
+LOG:10.11:03:19: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:19: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:19: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:19: GameManager: Player name is empty
+LOG:10.11:03:20: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:20: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:20: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:20: GameManager: Player name is empty
+LOG:10.11:03:20: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:20: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:20: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:20: GameManager: Player name is empty
+LOG:10.11:03:21: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:21: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:21: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:21: GameManager: Player name is empty
+LOG:10.11:03:21: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:21: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:21: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:21: GameManager: Player name is empty
+LOG:10.11:03:22: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:22: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:22: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:22: GameManager: Player name is empty
+LOG:10.11:03:23: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:23: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:23: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:23: GameManager: Player name is empty
+LOG:10.11:03:23: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:23: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:23: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:23: GameManager: Player name is empty
+LOG:10.11:03:24: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:24: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:24: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:24: GameManager: Player name is empty
+LOG:10.11:03:24: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:24: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:24: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:24: GameManager: Player name is empty
+LOG:10.11:03:25: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:25: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:25: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:25: GameManager: Player name is empty
+LOG:10.11:03:26: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:26: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:26: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:26: GameManager: Player name is empty
+LOG:10.11:03:26: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:26: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:26: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:26: GameManager: Player name is empty
+LOG:10.11:03:27: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:27: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:27: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:27: GameManager: Player name is empty
+LOG:10.11:03:27: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:27: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:27: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:27: GameManager: Player name is empty
+LOG:10.11:03:28: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:28: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:28: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:28: GameManager: Player name is empty
+LOG:10.11:03:29: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:29: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:29: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:29: GameManager: Player name is empty
+LOG:10.11:03:29: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:29: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:29: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:29: GameManager: Player name is empty
+LOG:10.11:03:30: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:30: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:30: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:30: GameManager: Player name is empty
+LOG:10.11:03:30: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:30: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:30: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:30: GameManager: Player name is empty
+LOG:10.11:03:31: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:31: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:31: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:31: GameManager: Player name is empty
+LOG:10.11:03:32: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:32: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:32: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:32: GameManager: Player name is empty
+LOG:10.11:03:32: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:32: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:32: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:32: GameManager: Player name is empty
+LOG:10.11:03:33: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:33: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:33: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:33: GameManager: Player name is empty
+LOG:10.11:03:33: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:33: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:33: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:33: GameManager: Player name is empty
+LOG:10.11:03:34: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:34: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:34: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:34: GameManager: Player name is empty
+ERROR:10.11:03:34: Failed to connect to server 
+LOG:10.11:03:35: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:35: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:35: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:35: GameManager: Player name is empty
+LOG:10.11:03:35: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:35: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:35: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:35: GameManager: Player name is empty
+LOG:10.11:03:35: Connecting to = 192.168.1.10
+LOG:10.11:03:36: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:36: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:36: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:36: GameManager: Player name is empty
+LOG:10.11:03:36: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:36: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:36: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:36: GameManager: Player name is empty
+LOG:10.11:03:37: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:37: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:37: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:37: GameManager: Player name is empty
+LOG:10.11:03:38: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:38: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:38: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:38: GameManager: Player name is empty
+LOG:10.11:03:38: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:38: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:38: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:38: GameManager: Player name is empty
+LOG:10.11:03:39: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:39: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:39: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:39: GameManager: Player name is empty
+LOG:10.11:03:40: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:40: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:40: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:40: GameManager: Player name is empty
+LOG:10.11:03:40: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:40: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:40: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:40: GameManager: Player name is empty
+LOG:10.11:03:41: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:41: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:41: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:41: GameManager: Player name is empty
+LOG:10.11:03:41: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:41: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:41: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:41: GameManager: Player name is empty
+LOG:10.11:03:42: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:42: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:42: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:42: GameManager: Player name is empty
+LOG:10.11:03:43: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:43: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:43: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:43: GameManager: Player name is empty
+LOG:10.11:03:43: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:43: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:43: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:43: GameManager: Player name is empty
+LOG:10.11:03:44: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:44: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:44: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:44: GameManager: Player name is empty
+LOG:10.11:03:44: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:44: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:44: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:44: GameManager: Player name is empty
+LOG:10.11:03:45: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:45: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:45: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:45: GameManager: Player name is empty
+LOG:10.11:03:46: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:46: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:46: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:46: GameManager: Player name is empty
+LOG:10.11:03:46: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:46: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:46: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:46: GameManager: Player name is empty
+LOG:10.11:03:47: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:47: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:47: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:47: GameManager: Player name is empty
+LOG:10.11:03:47: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:47: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:47: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:47: GameManager: Player name is empty
+LOG:10.11:03:48: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:48: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:48: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:48: GameManager: Player name is empty
+LOG:10.11:03:49: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:49: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:49: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:49: GameManager: Player name is empty
+LOG:10.11:03:49: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:49: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:49: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:49: GameManager: Player name is empty
+LOG:10.11:03:50: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:50: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:50: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:50: GameManager: Player name is empty
+LOG:10.11:03:50: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:50: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:51: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:51: GameManager: Player name is empty
+LOG:10.11:03:51: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:51: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:51: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:51: GameManager: Player name is empty
+LOG:10.11:03:52: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:52: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:52: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:52: GameManager: Player name is empty
+LOG:10.11:03:52: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:52: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:52: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:52: GameManager: Player name is empty
+LOG:10.11:03:53: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:53: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:53: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:53: GameManager: Player name is empty
+ERROR:10.11:03:53: Failed to connect to server 
+LOG:10.11:03:54: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:54: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:54: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:54: GameManager: Player name is empty
+LOG:10.11:03:54: Connecting to = 192.168.1.10
+LOG:10.11:03:55: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:55: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:55: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:55: GameManager: Player name is empty
+LOG:10.11:03:56: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:56: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:56: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:56: GameManager: Player name is empty
+LOG:10.11:03:57: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:57: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:57: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:57: GameManager: Player name is empty
+LOG:10.11:03:57: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:57: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:57: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:57: GameManager: Player name is empty
+LOG:10.11:03:58: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:58: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:58: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:58: GameManager: Player name is empty
+LOG:10.11:03:58: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:58: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:58: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:58: GameManager: Player name is empty
+LOG:10.11:03:59: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:03:59: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:03:59: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:03:59: GameManager: Player name is empty
+LOG:10.11:04:00: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:00: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:00: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:00: GameManager: Player name is empty
+LOG:10.11:04:00: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:00: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:00: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:00: GameManager: Player name is empty
+LOG:10.11:04:01: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:01: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:01: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:01: GameManager: Player name is empty
+LOG:10.11:04:01: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:01: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:01: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:01: GameManager: Player name is empty
+LOG:10.11:04:02: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:02: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:02: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:02: GameManager: Player name is empty
+LOG:10.11:04:03: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:03: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:03: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:03: GameManager: Player name is empty
+LOG:10.11:04:03: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:03: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:03: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:03: GameManager: Player name is empty
+LOG:10.11:04:04: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:04: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:04: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:04: GameManager: Player name is empty
+LOG:10.11:04:05: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:05: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:05: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:05: GameManager: Player name is empty
+LOG:10.11:04:05: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:05: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:05: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:05: GameManager: Player name is empty
+LOG:10.11:04:06: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:06: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:06: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:06: GameManager: Player name is empty
+LOG:10.11:04:06: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:06: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:06: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:06: GameManager: Player name is empty
+LOG:10.11:04:07: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:07: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:07: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:07: GameManager: Player name is empty
+LOG:10.11:04:08: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:08: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:08: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:08: GameManager: Player name is empty
+LOG:10.11:04:08: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:08: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:08: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:08: GameManager: Player name is empty
+LOG:10.11:04:09: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:09: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:09: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:09: GameManager: Player name is empty
+LOG:10.11:04:09: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:09: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:09: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:09: GameManager: Player name is empty
+LOG:10.11:04:10: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:10: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:10: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:10: GameManager: Player name is empty
+LOG:10.11:04:11: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:11: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:11: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:11: GameManager: Player name is empty
+LOG:10.11:04:11: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:11: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:11: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:11: GameManager: Player name is empty
+ERROR:10.11:04:12: Failed to connect to server 
+LOG:10.11:04:12: Connecting to = 192.168.1.10
+LOG:10.11:04:12: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:12: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:12: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:12: GameManager: Player name is empty
+LOG:10.11:04:12: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:12: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:12: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:12: GameManager: Player name is empty
+LOG:10.11:04:13: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:13: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:13: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:13: GameManager: Player name is empty
+LOG:10.11:04:14: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:14: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:14: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:14: GameManager: Player name is empty
+LOG:10.11:04:14: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:14: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:14: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:14: GameManager: Player name is empty
+LOG:10.11:04:15: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:15: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:15: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:15: GameManager: Player name is empty
+LOG:10.11:04:15: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:16: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:16: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:16: GameManager: Player name is empty
+LOG:10.11:04:16: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:16: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:16: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:16: GameManager: Player name is empty
+LOG:10.11:04:17: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:17: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:17: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:17: GameManager: Player name is empty
+LOG:10.11:04:17: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:17: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:17: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:17: GameManager: Player name is empty
+LOG:10.11:04:18: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:18: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:18: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:18: GameManager: Player name is empty
+LOG:10.11:04:19: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:19: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:19: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:19: GameManager: Player name is empty
+LOG:10.11:04:19: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:19: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:19: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:19: GameManager: Player name is empty
+LOG:10.11:04:20: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:20: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:20: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:20: GameManager: Player name is empty
+LOG:10.11:04:20: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:20: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:20: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:20: GameManager: Player name is empty
+LOG:10.11:04:21: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:21: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:21: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:21: GameManager: Player name is empty
+LOG:10.11:04:22: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:22: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:22: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:22: GameManager: Player name is empty
+LOG:10.11:04:22: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:22: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:22: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:22: GameManager: Player name is empty
+LOG:10.11:04:23: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:23: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:23: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:23: GameManager: Player name is empty
+LOG:10.11:04:23: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:23: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:23: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:23: GameManager: Player name is empty
+LOG:10.11:04:24: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:24: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:24: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:24: GameManager: Player name is empty
+LOG:10.11:04:25: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:25: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:25: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:25: GameManager: Player name is empty
+LOG:10.11:04:25: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:25: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:25: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:25: GameManager: Player name is empty
+LOG:10.11:04:26: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:26: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:26: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:26: GameManager: Player name is empty
+LOG:10.11:04:27: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:27: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:27: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:27: GameManager: Player name is empty
+LOG:10.11:04:27: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:27: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:27: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:27: GameManager: Player name is empty
+LOG:10.11:04:28: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:28: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:28: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:28: GameManager: Player name is empty
+LOG:10.11:04:28: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:28: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:29: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:29: GameManager: Player name is empty
+LOG:10.11:04:29: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:29: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:29: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:29: GameManager: Player name is empty
+LOG:10.11:04:30: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:30: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:30: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:30: GameManager: Player name is empty
+ERROR:10.11:04:30: Failed to connect to server 
+LOG:10.11:04:30: Connecting to = 192.168.1.10
+LOG:10.11:04:30: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:30: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:30: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:30: GameManager: Player name is empty
+LOG:10.11:04:31: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:31: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:31: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:31: GameManager: Player name is empty
+LOG:10.11:04:32: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:32: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:32: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:32: GameManager: Player name is empty
+LOG:10.11:04:32: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:32: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:32: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:32: GameManager: Player name is empty
+LOG:10.11:04:33: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:33: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:33: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:33: GameManager: Player name is empty
+LOG:10.11:04:33: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:33: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:33: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:33: GameManager: Player name is empty
+LOG:10.11:04:34: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:34: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:34: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:34: GameManager: Player name is empty
+LOG:10.11:04:35: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:35: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:35: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:35: GameManager: Player name is empty
+LOG:10.11:04:35: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:35: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:35: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:35: GameManager: Player name is empty
+LOG:10.11:04:36: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:36: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:36: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:36: GameManager: Player name is empty
+LOG:10.11:04:37: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:37: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:37: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:37: GameManager: Player name is empty
+LOG:10.11:04:37: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:37: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:37: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:37: GameManager: Player name is empty
+LOG:10.11:04:38: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:38: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:38: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:38: GameManager: Player name is empty
+LOG:10.11:04:38: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:38: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:39: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:39: GameManager: Player name is empty
+LOG:10.11:04:39: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:39: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:39: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:39: GameManager: Player name is empty
+DEBUG:10.11:04:40: Collision occured Virus1(Clone)2 with ShieldPrototypeLeft
+LOG:10.11:04:40: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:40: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:40: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:40: GameManager: Player name is empty
+LOG:10.11:04:40: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:40: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:40: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:40: GameManager: Player name is empty
+LOG:10.11:04:41: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:41: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:41: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:41: GameManager: Player name is empty
+LOG:10.11:04:42: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:42: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:42: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:42: GameManager: Player name is empty
+LOG:10.11:04:42: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:42: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:42: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:42: GameManager: Player name is empty
+LOG:10.11:04:43: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:43: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:43: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:43: GameManager: Player name is empty
+LOG:10.11:04:43: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:43: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:43: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:43: GameManager: Player name is empty
+LOG:10.11:04:44: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:44: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:44: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:44: GameManager: Player name is empty
+LOG:10.11:04:45: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:45: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:45: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:45: GameManager: Player name is empty
+LOG:10.11:04:45: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:45: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:45: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:45: GameManager: Player name is empty
+LOG:10.11:04:46: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:46: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:46: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:46: GameManager: Player name is empty
+LOG:10.11:04:46: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:46: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:46: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:46: GameManager: Player name is empty
+DEBUG:10.11:04:46: Collision occured Virus1(Clone)3 with ShieldPrototypeRight
+LOG:10.11:04:47: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:47: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:47: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:47: GameManager: Player name is empty
+LOG:10.11:04:48: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:48: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:48: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:48: GameManager: Player name is empty
+ERROR:10.11:04:48: Failed to connect to server 
+LOG:10.11:04:48: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:48: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:48: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:48: GameManager: Player name is empty
+LOG:10.11:04:48: Connecting to = 192.168.1.10
+DEBUG:10.11:04:48: Collision occured Virus1(Clone)4 with ShieldPrototypeLeft
+LOG:10.11:04:49: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:49: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:49: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:49: GameManager: Player name is empty
+LOG:10.11:04:49: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:49: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:49: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:49: GameManager: Player name is empty
+DEBUG:10.11:04:50: Collision occured Virus1(Clone)5 with ShieldPrototypeRight
+LOG:10.11:04:50: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:50: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:50: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:50: GameManager: Player name is empty
+LOG:10.11:04:51: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:51: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:51: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:51: GameManager: Player name is empty
+LOG:10.11:04:51: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:51: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:51: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:51: GameManager: Player name is empty
+DEBUG:10.11:04:52: Collision occured Virus1(Clone)6 with ShieldPrototypeLeft
+LOG:10.11:04:52: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:52: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:52: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:52: GameManager: Player name is empty
+LOG:10.11:04:52: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:52: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:52: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:52: GameManager: Player name is empty
+LOG:10.11:04:53: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:53: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:53: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:53: GameManager: Player name is empty
+LOG:10.11:04:54: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:54: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:54: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:54: GameManager: Player name is empty
+LOG:10.11:04:54: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:54: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:54: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:54: GameManager: Player name is empty
+LOG:10.11:04:55: GameManager Stage ended TutorialStage : StagingArea
+LOG:10.11:04:55: Attempting load scene Level01
+LOG:10.11:04:55: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:55: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:55: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:55: GameManager: Player name is empty
+LOG:10.11:04:56: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:56: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:56: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:56: GameManager: Player name is empty
+LOG:10.11:04:56: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:56: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:56: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:56: GameManager: Player name is empty
+LOG:10.11:04:57: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:57: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:57: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:57: GameManager: Player name is empty
+LOG:10.11:04:57: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:57: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:57: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:57: GameManager: Player name is empty
+LOG:10.11:04:58: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:58: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:58: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:58: GameManager: Player name is empty
+LOG:10.11:04:59: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:59: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:59: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:59: GameManager: Player name is empty
+LOG:10.11:04:59: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:04:59: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:04:59: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:04:59: GameManager: Player name is empty
+LOG:10.11:05:00: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:00: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:00: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:00: GameManager: Player name is empty
+LOG:10.11:05:00: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:00: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:00: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:00: GameManager: Player name is empty
+LOG:10.11:05:01: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:01: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:01: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:01: GameManager: Player name is empty
+LOG:10.11:05:02: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:02: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:02: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:02: GameManager: Player name is empty
+LOG:10.11:05:02: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:02: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:02: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:02: GameManager: Player name is empty
+LOG:10.11:05:03: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:03: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:03: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:03: GameManager: Player name is empty
+LOG:10.11:05:03: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:03: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:03: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:03: GameManager: Player name is empty
+LOG:10.11:05:04: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:04: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:04: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:04: GameManager: Player name is empty
+LOG:10.11:05:05: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:05: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:05: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:05: GameManager: Player name is empty
+LOG:10.11:05:05: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:05: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:05: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:05: GameManager: Player name is empty
+LOG:10.11:05:06: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:06: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:06: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:06: GameManager: Player name is empty
+LOG:10.11:05:06: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:06: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:06: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:06: GameManager: Player name is empty
+ERROR:10.11:05:07: Failed to connect to server 
+LOG:10.11:05:07: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:07: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:07: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:07: GameManager: Player name is empty
+LOG:10.11:05:08: Connecting to = 192.168.1.10
+LOG:10.11:05:08: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:08: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:08: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:08: GameManager: Player name is empty
+LOG:10.11:05:08: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:08: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:08: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:08: GameManager: Player name is empty
+LOG:10.11:05:08: GameManager Stage ended TutorialStage : StagingArea
+LOG:10.11:05:09: Attempting load scene Level01
+LOG:10.11:05:09: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:09: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:09: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:09: GameManager: Player name is empty
+LOG:10.11:05:09: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:09: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:09: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:09: GameManager: Player name is empty
+LOG:10.11:05:10: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:10: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:10: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:10: GameManager: Player name is empty
+LOG:10.11:05:11: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:11: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:11: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:11: GameManager: Player name is empty
+LOG:10.11:05:11: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:11: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:11: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:11: GameManager: Player name is empty
+LOG:10.11:05:12: Attempting to open file CurrentPlayer -+-+ 
+LOG:10.11:05:12: Loading entries from CurrentPlayer Encryption: False
+ERROR:10.11:05:12: Failed to load file CurrentPlayer Exception: Could not find file "C:\Users\DFrith\Desktop\AT-T\ATTVR Project\CurrentPlayer.txt"
+ERROR:10.11:05:12: GameManager: Player name is empty

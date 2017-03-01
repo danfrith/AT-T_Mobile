@@ -1,0 +1,50 @@
+WARNING:18.04:13:24: Logging enabled
+ERROR:18.04:13:24: Clip ThreatManager does not exist
+LOG:18.04:13:24: Attempting client connection
+LOG:18.04:13:24: Connecting to = 192.168.1.10
+LOG:18.04:13:24: Beggining current player file search
+LOG:18.04:13:25: Attempting to open file CurrentPlaye
+LOG:18.04:13:25: Loading entries from CurrentPlayer Encryption: False
+LOG:18.04:13:25: 0 Registrants loaded 
+ERROR:18.04:13:42: Failed to connect to server 
+LOG:18.04:13:42: Connecting to = 192.168.1.10
+ERROR:18.04:14:00: Failed to connect to server 
+LOG:18.04:14:00: Connecting to = 192.168.1.10
+DEBUG:18.04:14:13: Collision occured Virus1(Clone)2 with TargetPanel
+ERROR:18.04:14:19: Failed to connect to server 
+LOG:18.04:14:19: Connecting to = 192.168.1.10
+DEBUG:18.04:14:19: Collision occured Virus1(Clone)3 with TargetPanel
+DEBUG:18.04:14:22: Collision occured Virus1(Clone)4 with TargetPanel
+DEBUG:18.04:14:23: Collision occured Virus1(Clone)5 with TargetPanel
+DEBUG:18.04:14:25: Collision occured Virus1(Clone)6 with TargetPanel
+DEBUG:18.04:14:28: Collision occured Virus1(Clone)8 with TargetPanel
+DEBUG:18.04:14:29: Collision occured Virus1(Clone)7 with TargetPanel
+DEBUG:18.04:14:30: Collision occured Virus1(Clone)9 with TargetPanel
+DEBUG:18.04:14:35: Collision occured Virus1(Clone)11 with TargetPanel
+DEBUG:18.04:14:35: Collision occured Virus1(Clone)10 with TargetPanel
+ERROR:18.04:14:37: Failed to connect to server 
+LOG:18.04:14:37: Connecting to = 192.168.1.10
+DEBUG:18.04:14:37: Collision occured Virus1(Clone)12 with TargetPanel
+LOG:18.04:14:41: GameManager Stage ended TutorialStage : StagingArea
+LOG:18.04:14:41: Attempting load scene Level01
+ERROR:18.04:14:43: Clip ThreatManager does not exist
+ERROR:18.04:14:55: Failed to connect to server 
+LOG:18.04:14:55: Connecting to = 192.168.1.10
+ERROR:18.04:15:14: Failed to connect to server 
+LOG:18.04:15:15: Connecting to = 192.168.1.10
+ERROR:18.04:15:33: Failed to connect to server 
+LOG:18.04:15:34: Connecting to = 192.168.1.10
+ERROR:18.04:15:52: Failed to connect to server 
+LOG:18.04:15:53: Connecting to = 192.168.1.10
+ERROR:18.04:16:11: Failed to connect to server 
+LOG:18.04:16:12: Connecting to = 192.168.1.10
+ERROR:18.04:16:30: Failed to connect to server 
+LOG:18.04:16:30: Connecting to = 192.168.1.10
+ERROR:18.04:16:48: Failed to connect to server 
+LOG:18.04:16:49: Connecting to = 192.168.1.10
+ERROR:18.04:17:07: Failed to connect to server 
+LOG:18.04:17:08: Connecting to = 192.168.1.10
+ERROR:18.04:17:26: Failed to connect to server 
+LOG:18.04:17:26: Connecting to = 192.168.1.10
+ERROR:18.04:17:45: Failed to connect to server 
+LOG:18.04:17:45: Connecting to = 192.168.1.10

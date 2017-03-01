@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 113222e53795abe4eb01b89fc13b2c86
+timeCreated: 1475680518
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Virus3_01
+    100004: Virus3_013
+    100006: Virus3_014
+    100008: Virus3_015
+    100010: Virus3_016
+    100012: Virus3_017
+    100014: Virus3_018
+    100016: Virus3_019
+    100018: Virus3_020
+    100020: Virus3_021
+    100022: Virus3_022
+    100024: Virus3_023
+    100026: Virus3_024
+    100028: Virus3_025
+    100030: Virus3_026
+    100032: Virus3_027
+    100034: Virus3_028
+    100036: Virus3_029
+    100038: Virus3_030
+    100040: Virus3_031
+    100042: Virus3_032
+    100044: Virus3_04
+    100046: Virus3_05
+    100048: Virus3_06
+    100050: Virus3_07
+    100052: Virus3_08
+    100054: Virus3_09
+    100056: Virus3_10
+    100058: Virus3_11
+    100060: Virus3_12
+    400000: //RootNode
+    400002: Virus3_01
+    400004: Virus3_013
+    400006: Virus3_014
+    400008: Virus3_015
+    400010: Virus3_016
+    400012: Virus3_017
+    400014: Virus3_018
+    400016: Virus3_019
+    400018: Virus3_020
+    400020: Virus3_021
+    400022: Virus3_022
+    400024: Virus3_023
+    400026: Virus3_024
+    400028: Virus3_025
+    400030: Virus3_026
+    400032: Virus3_027
+    400034: Virus3_028
+    400036: Virus3_029
+    400038: Virus3_030
+    400040: Virus3_031
+    400042: Virus3_032
+    400044: Virus3_04
+    400046: Virus3_05
+    400048: Virus3_06
+    400050: Virus3_07
+    400052: Virus3_08
+    400054: Virus3_09
+    400056: Virus3_10
+    400058: Virus3_11
+    400060: Virus3_12
+    2300000: //RootNode
+    2300002: Virus3_01
+    2300004: Virus3_013
+    2300006: Virus3_014
+    2300008: Virus3_015
+    2300010: Virus3_016
+    2300012: Virus3_017
+    2300014: Virus3_018
+    2300016: Virus3_019
+    2300018: Virus3_020
+    2300020: Virus3_021
+    2300022: Virus3_022
+    2300024: Virus3_023
+    2300026: Virus3_024
+    2300028: Virus3_025
+    2300030: Virus3_026
+    2300032: Virus3_027
+    2300034: Virus3_028
+    2300036: Virus3_029
+    2300038: Virus3_030
+    2300040: Virus3_031
+    2300042: Virus3_032
+    2300044: Virus3_04
+    2300046: Virus3_05
+    2300048: Virus3_06
+    2300050: Virus3_07
+    2300052: Virus3_08
+    2300054: Virus3_09
+    2300056: Virus3_10
+    2300058: Virus3_11
+    2300060: Virus3_12
+    3300000: //RootNode
+    3300002: Virus3_01
+    3300004: Virus3_013
+    3300006: Virus3_014
+    3300008: Virus3_015
+    3300010: Virus3_016
+    3300012: Virus3_017
+    3300014: Virus3_018
+    3300016: Virus3_019
+    3300018: Virus3_020
+    3300020: Virus3_021
+    3300022: Virus3_022
+    3300024: Virus3_023
+    3300026: Virus3_024
+    3300028: Virus3_025
+    3300030: Virus3_026
+    3300032: Virus3_027
+    3300034: Virus3_028
+    3300036: Virus3_029
+    3300038: Virus3_030
+    3300040: Virus3_031
+    3300042: Virus3_032
+    3300044: Virus3_04
+    3300046: Virus3_05
+    3300048: Virus3_06
+    3300050: Virus3_07
+    3300052: Virus3_08
+    3300054: Virus3_09
+    3300056: Virus3_10
+    3300058: Virus3_11
+    3300060: Virus3_12
+    4300000: Virus3
+    4300002: Virus3_01
+    4300004: Virus3_016
+    4300006: Virus3_023
+    4300008: Virus3_04
+    4300010: Virus3_017
+    4300012: Virus3_024
+    4300014: Virus3_09
+    4300016: Virus3_018
+    4300018: Virus3_026
+    4300020: Virus3_10
+    4300022: Virus3_014
+    4300024: Virus3_027
+    4300026: Virus3_06
+    4300028: Virus3_022
+    4300030: Virus3_028
+    4300032: Virus3_05
+    4300034: Virus3_021
+    4300036: Virus3_032
+    4300038: Virus3_12
+    4300040: Virus3_015
+    4300042: Virus3_031
+    4300044: Virus3_11
+    4300046: Virus3_013
+    4300048: Virus3_029
+    4300050: Virus3_08
+    4300052: Virus3_020
+    4300054: Virus3_025
+    4300056: Virus3_07
+    4300058: Virus3_019
+    4300060: Virus3_030
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Virus3_01
+        weight: 1
+      - path: Virus3_01/Virus3_016
+        weight: 1
+      - path: Virus3_01/Virus3_016/Virus3_023
+        weight: 1
+      - path: Virus3_04
+        weight: 1
+      - path: Virus3_04/Virus3_017
+        weight: 1
+      - path: Virus3_04/Virus3_017/Virus3_024
+        weight: 1
+      - path: Virus3_05
+        weight: 1
+      - path: Virus3_05/Virus3_021
+        weight: 1
+      - path: Virus3_05/Virus3_021/Virus3_032
+        weight: 1
+      - path: Virus3_06
+        weight: 1
+      - path: Virus3_06/Virus3_022
+        weight: 1
+      - path: Virus3_06/Virus3_022/Virus3_028
+        weight: 1
+      - path: Virus3_07
+        weight: 1
+      - path: Virus3_07/Virus3_019
+        weight: 1
+      - path: Virus3_07/Virus3_019/Virus3_030
+        weight: 1
+      - path: Virus3_08
+        weight: 1
+      - path: Virus3_08/Virus3_020
+        weight: 1
+      - path: Virus3_08/Virus3_020/Virus3_025
+        weight: 1
+      - path: Virus3_09
+        weight: 1
+      - path: Virus3_09/Virus3_018
+        weight: 1
+      - path: Virus3_09/Virus3_018/Virus3_026
+        weight: 1
+      - path: Virus3_10
+        weight: 1
+      - path: Virus3_10/Virus3_014
+        weight: 1
+      - path: Virus3_10/Virus3_014/Virus3_027
+        weight: 1
+      - path: Virus3_11
+        weight: 1
+      - path: Virus3_11/Virus3_013
+        weight: 1
+      - path: Virus3_11/Virus3_013/Virus3_029
+        weight: 1
+      - path: Virus3_12
+        weight: 1
+      - path: Virus3_12/Virus3_015
+        weight: 1
+      - path: Virus3_12/Virus3_015/Virus3_031
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

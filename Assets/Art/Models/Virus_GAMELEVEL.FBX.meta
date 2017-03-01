@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 508c6827b1af37a4ca38909b1117a2e7
+timeCreated: 1476375575
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Level1_MeshPart0
+    100004: Level1_MeshPart1
+    100006: Glow
+    100008: MatrixLine1
+    100010: MatrixLine2
+    100012: MatrixLine3
+    100014: DataLines
+    100016: Level1
+    100018: DataLines_VERTICAL
+    100020: DataLines_FLOOR
+    100022: DataLines_WALL
+    100024: Screens
+    100026: DataLines_VERTICALA
+    100028: DataLines_VERTICALB
+    100030: DataLines_VERTICALC
+    100032: DataLines_VERTICALD
+    400000: //RootNode
+    400002: Level1_MeshPart0
+    400004: Level1_MeshPart1
+    400006: Glow
+    400008: MatrixLine1
+    400010: MatrixLine2
+    400012: MatrixLine3
+    400014: DataLines
+    400016: Level1
+    400018: DataLines_VERTICAL
+    400020: DataLines_FLOOR
+    400022: DataLines_WALL
+    400024: Screens
+    400026: DataLines_VERTICALA
+    400028: DataLines_VERTICALB
+    400030: DataLines_VERTICALC
+    400032: DataLines_VERTICALD
+    2300000: //RootNode
+    2300002: Level1_MeshPart0
+    2300004: Level1_MeshPart1
+    2300006: Glow
+    2300008: MatrixLine1
+    2300010: MatrixLine2
+    2300012: MatrixLine3
+    2300014: DataLines
+    2300016: DataLines_VERTICAL
+    2300018: DataLines_FLOOR
+    2300020: DataLines_WALL
+    2300022: Screens
+    2300024: DataLines_VERTICALA
+    2300026: DataLines_VERTICALB
+    2300028: DataLines_VERTICALC
+    2300030: DataLines_VERTICALD
+    3300000: //RootNode
+    3300002: Level1_MeshPart0
+    3300004: Level1_MeshPart1
+    3300006: Glow
+    3300008: MatrixLine1
+    3300010: MatrixLine2
+    3300012: MatrixLine3
+    3300014: DataLines
+    3300016: DataLines_VERTICAL
+    3300018: DataLines_FLOOR
+    3300020: DataLines_WALL
+    3300022: Screens
+    3300024: DataLines_VERTICALA
+    3300026: DataLines_VERTICALB
+    3300028: DataLines_VERTICALC
+    3300030: DataLines_VERTICALD
+    4300000: Box002
+    4300002: Level1_MeshPart0
+    4300004: Level1_MeshPart1
+    4300006: Glow
+    4300008: MatrixLine3
+    4300010: MatrixLine1
+    4300012: MatrixLine2
+    4300014: DataLines
+    4300016: DataLines_VERTICAL
+    4300018: DataLines_WALL
+    4300020: DataLines_FLOOR
+    4300022: Screens
+    4300024: DataLines_VERTICALA
+    4300026: DataLines_VERTICALD
+    4300028: DataLines_VERTICALC
+    4300030: DataLines_VERTICALB
+    4300032: Level1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,225 @@
+WARNING:18.05:50:55: Logging enabled
+ERROR:18.05:50:55: Clip ThreatManager does not exist
+LOG:18.05:50:55: Attempting client connection
+LOG:18.05:50:55: Connecting to = 192.168.1.10
+LOG:18.05:50:55: Beggining current player file search
+LOG:18.05:50:56: Attempting to open file CurrentPlaye
+LOG:18.05:50:56: Loading entries from CurrentPlayer Encryption: False
+LOG:18.05:50:56: 0 Registrants loaded 
+ERROR:18.05:51:13: Failed to connect to server 
+LOG:18.05:51:13: Connecting to = 192.168.1.10
+ERROR:18.05:51:31: Failed to connect to server 
+LOG:18.05:51:32: Connecting to = 192.168.1.10
+ERROR:18.05:51:50: Failed to connect to server 
+LOG:18.05:51:50: Connecting to = 192.168.1.10
+ERROR:18.05:52:09: Failed to connect to server 
+LOG:18.05:52:09: Connecting to = 192.168.1.10
+ERROR:18.05:52:27: Failed to connect to server 
+LOG:18.05:52:27: Connecting to = 192.168.1.10
+DEBUG:18.05:52:40: Collision occured Virus1(Clone)2 with ShieldPrototypeLeft
+ERROR:18.05:52:45: Failed to connect to server 
+LOG:18.05:52:46: Connecting to = 192.168.1.10
+DEBUG:18.05:52:47: Collision occured Virus1(Clone)3 with ShieldPrototypeRight
+DEBUG:18.05:52:48: Collision occured Virus1(Clone)4 with ShieldPrototypeLeft
+DEBUG:18.05:52:50: Collision occured Virus1(Clone)5 with ShieldPrototypeRight
+DEBUG:18.05:52:52: Collision occured Virus1(Clone)6 with ShieldPrototypeLeft
+LOG:18.05:52:55: GameManager Stage ended TutorialStage : StagingArea
+LOG:18.05:52:55: Attempting load scene Level01
+ERROR:18.05:52:56: Clip ThreatManager does not exist
+LOG:18.05:52:58: Beggining stage from "Continue" pressed
+LOG:18.05:52:58: Returning (levle still running)
+ERROR:18.05:53:04: Failed to connect to server 
+LOG:18.05:53:04: Connecting to = 192.168.1.10
+ERROR:18.05:53:05: Spawner LeftTowerBottom does not exist
+DEBUG:18.05:53:05: Collision occured Virus2(Clone)4 with ShieldPrototypeRight
+DEBUG:18.05:53:10: Collision occured Virus3(Clone)6 with ShieldPrototypeRight
+DEBUG:18.05:53:11: Collision occured Virus2(Clone)8 with ShieldPrototypeLeft
+DEBUG:18.05:53:11: Collision occured Virus1(Clone)3 with ShieldPrototypeLeft
+DEBUG:18.05:53:13: Collision occured Virus4(Clone)10 with ShieldPrototypeLeft
+DEBUG:18.05:53:14: Collision occured Virus1(Clone)5 with ShieldPrototypeLeft
+DEBUG:18.05:53:16: Collision occured Virus1(Clone)7 with ShieldPrototypeRight
+DEBUG:18.05:53:17: Collision occured Virus2(Clone)9 with ShieldPrototypeRight
+DEBUG:18.05:53:18: Collision occured Virus4(Clone)13 with ShieldPrototypeRight
+DEBUG:18.05:53:19: Collision occured Virus1(Clone)12 with ShieldPrototypeLeft
+DEBUG:18.05:53:20: Collision occured Virus2(Clone)11 with ShieldPrototypeLeft
+DEBUG:18.05:53:21: Collision occured Virus3(Clone)15 with ShieldPrototypeRight
+DEBUG:18.05:53:21: Collision occured Virus3(Clone)15 with ShieldPrototypeRight
+DEBUG:18.05:53:21: Collision occured Virus3(Clone)15 with ShieldPrototypeRight
+DEBUG:18.05:53:21: Collision occured Virus3(Clone)15 with ShieldPrototypeRight
+ERROR:18.05:53:23: Failed to connect to server 
+DEBUG:18.05:53:23: Collision occured Virus2(Clone)20 with ShieldPrototypeRight
+LOG:18.05:53:23: Connecting to = 192.168.1.10
+DEBUG:18.05:53:23: Collision occured Virus3(Clone)17 with ShieldPrototypeRight
+DEBUG:18.05:53:23: Collision occured Virus3(Clone)17 with ShieldPrototypeRight
+DEBUG:18.05:53:24: Collision occured Virus4(Clone)18 with ShieldPrototypeLeft
+DEBUG:18.05:53:25: Collision occured Virus2(Clone)19 with ShieldPrototypeLeft
+DEBUG:18.05:53:26: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:53:26: Collision occured Virus3(Clone)16 with ShieldPrototypeLeft
+DEBUG:18.05:53:27: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:53:28: Collision occured Virus4(Clone)25 with ShieldPrototypeLeft
+DEBUG:18.05:53:29: Collision occured Virus1(Clone)22 with ShieldPrototypeRight
+DEBUG:18.05:53:29: Collision occured Virus2(Clone)21 with ShieldPrototypeRight
+DEBUG:18.05:53:29: Collision occured Virus2(Clone)14 with ShieldPrototypeLeft
+DEBUG:18.05:53:29: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:53:30: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:53:31: Collision occured Virus2(Clone)26 with ShieldPrototypeRight
+DEBUG:18.05:53:31: Collision occured Virus2(Clone)26 with ShieldPrototypeRight
+DEBUG:18.05:53:31: Collision occured Virus2(Clone)29 with ShieldPrototypeLeft
+DEBUG:18.05:53:31: Collision occured Virus6(Clone)27 with ShieldPrototypeRight
+DEBUG:18.05:53:34: Collision occured Virus4(Clone)30 with ShieldPrototypeRight
+DEBUG:18.05:53:34: Collision occured Virus3(Clone)29 with ShieldPrototypeLeft
+DEBUG:18.05:53:36: Collision occured Virus3(Clone)24 with ShieldPrototypeRight
+DEBUG:18.05:53:36: Collision occured Virus3(Clone)24 with ShieldPrototypeRight
+DEBUG:18.05:53:37: Collision occured Virus2(Clone)32 with ShieldPrototypeRight
+DEBUG:18.05:53:37: Collision occured Virus1(Clone)23 with ShieldPrototypeLeft
+ERROR:18.05:53:37: Spawner LeftTowerBottom does not exist
+DEBUG:18.05:53:37: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:53:38: Collision occured Virus5(Clone)31 with ShieldPrototypeLeft
+DEBUG:18.05:53:39: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+ERROR:18.05:53:41: Failed to connect to server 
+LOG:18.05:53:41: Connecting to = 192.168.1.10
+DEBUG:18.05:53:41: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:53:42: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:53:44: Collision occured Virus1(Clone)35 with ShieldPrototypeLeft
+DEBUG:18.05:53:45: Collision occured Virus3(Clone)37 with ShieldPrototypeRight
+DEBUG:18.05:53:45: Collision occured Virus3(Clone)37 with ShieldPrototypeRight
+DEBUG:18.05:53:45: Collision occured Virus3(Clone)37 with ShieldPrototypeRight
+DEBUG:18.05:53:46: Collision occured Virus3(Clone)38 with ShieldPrototypeRight
+DEBUG:18.05:53:46: Collision occured Virus3(Clone)38 with ShieldPrototypeRight
+DEBUG:18.05:53:46: Collision occured Virus3(Clone)38 with ShieldPrototypeRight
+DEBUG:18.05:53:46: Collision occured Virus4(Clone)39 with ShieldPrototypeLeft
+DEBUG:18.05:53:46: Collision occured Virus2(Clone)35 with ShieldPrototypeRight
+DEBUG:18.05:53:46: Collision occured Virus2(Clone)35 with ShieldPrototypeRight
+DEBUG:18.05:53:48: Collision occured Virus5(Clone)42 with ShieldPrototypeLeft
+DEBUG:18.05:53:50: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:53:51: Collision occured Virus4(Clone)45 with ShieldPrototypeLeft
+DEBUG:18.05:53:51: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:53:52: Collision occured Virus2(Clone)41 with ShieldPrototypeLeft
+DEBUG:18.05:53:53: Collision occured Virus1(Clone)37 with ShieldPrototypeRight
+DEBUG:18.05:53:53: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:53:53: Collision occured Virus6(Clone)43 with ShieldPrototypeLeft
+DEBUG:18.05:53:54: Collision occured Virus2(Clone)47 with ShieldPrototypeRight
+DEBUG:18.05:53:54: Collision occured Virus2(Clone)47 with ShieldPrototypeRight
+DEBUG:18.05:53:54: Collision occured Virus2(Clone)47 with ShieldPrototypeLeft
+DEBUG:18.05:53:54: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:53:55: Collision occured Virus2(Clone)49 with ShieldPrototypeRight
+DEBUG:18.05:53:56: Collision occured Virus1(Clone)44 with ShieldPrototypeLeft
+DEBUG:18.05:53:56: Collision occured Virus3(Clone)40 with ShieldPrototypeRight
+DEBUG:18.05:53:56: Collision occured Virus3(Clone)47 with ShieldPrototypeRight
+DEBUG:18.05:53:56: Collision occured Virus6(Clone)51 with ShieldPrototypeRight
+DEBUG:18.05:53:57: Collision occured Virus4(Clone)52 with ShieldPrototypeLeft
+DEBUG:18.05:53:57: Collision occured Virus2(Clone)48 with ShieldPrototypeRight
+DEBUG:18.05:53:57: Collision occured Virus2(Clone)48 with ShieldPrototypeRight
+DEBUG:18.05:53:58: Collision occured Virus3(Clone)50 with ShieldPrototypeLeft
+DEBUG:18.05:53:58: Collision occured Virus3(Clone)50 with ShieldPrototypeLeft
+DEBUG:18.05:53:58: Collision occured Virus3(Clone)50 with ShieldPrototypeLeft
+DEBUG:18.05:53:58: Collision occured Virus3(Clone)50 with ShieldPrototypeLeft
+ERROR:18.05:53:59: Spawner LeftTowerBottom does not exist
+ERROR:18.05:53:59: Failed to connect to server 
+LOG:18.05:53:59: Connecting to = 192.168.1.10
+DEBUG:18.05:54:01: Collision occured Virus2(Clone)53 with ShieldPrototypeLeft
+DEBUG:18.05:54:01: Collision occured Virus5(Clone)61 with ShieldPrototypeLeft
+DEBUG:18.05:54:01: Collision occured Virus4(Clone)59 with ShieldPrototypeLeft
+DEBUG:18.05:54:02: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:54:02: Collision occured Virus3(Clone)55 with ShieldPrototypeLeft
+DEBUG:18.05:54:03: Collision occured Virus4(Clone)62 with TargetPanel
+DEBUG:18.05:54:03: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:54:05: Collision occured Virus6(Clone)56 with ShieldPrototypeRight
+DEBUG:18.05:54:05: Collision occured Virus2(Clone)64 with Cube
+DEBUG:18.05:54:05: Collision occured Virus2(Clone)61 with ShieldPrototypeLeft
+DEBUG:18.05:54:05: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:54:06: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:54:06: Collision occured Virus4(Clone)59 with ShieldPrototypeLeft
+DEBUG:18.05:54:07: Collision occured Virus6(Clone)63 with ShieldPrototypeRight
+DEBUG:18.05:54:09: Collision occured Virus2(Clone)69 with ShieldPrototypeLeft
+DEBUG:18.05:54:09: Collision occured Virus1(Clone)54 with ShieldPrototypeRight
+DEBUG:18.05:54:09: Collision occured Virus5(Clone)67 with ShieldPrototypeRight
+DEBUG:18.05:54:09: Collision occured Virus3(Clone)66 with ShieldPrototypeLeft
+DEBUG:18.05:54:09: Collision occured Virus6(Clone)65 with ShieldPrototypeLeft
+DEBUG:18.05:54:10: Collision occured Virus4(Clone)68 with ShieldPrototypeRight
+DEBUG:18.05:54:10: Collision occured Virus5(Clone)70 with ShieldPrototypeLeft
+DEBUG:18.05:54:12: Collision occured Virus6(Clone)71 with ShieldPrototypeLeft
+DEBUG:18.05:54:12: Collision occured Virus1(Clone)57 with ShieldPrototypeLeft
+DEBUG:18.05:54:13: Collision occured Virus4(Clone)76 with TargetPanel
+DEBUG:18.05:54:14: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:54:14: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:54:14: Collision occured Virus1(Clone)72 with ShieldPrototypeLeft
+DEBUG:18.05:54:15: Collision occured Virus4(Clone)74 with ShieldPrototypeRight
+DEBUG:18.05:54:15: Collision occured Virus6(Clone)81 with ShieldPrototypeRight
+DEBUG:18.05:54:15: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:54:16: Collision occured Virus4(Clone)80 with ShieldPrototypeRight
+ERROR:18.05:54:17: Failed to connect to server 
+LOG:18.05:54:17: Connecting to = 192.168.1.10
+DEBUG:18.05:54:17: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:54:18: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:54:18: Collision occured Virus2(Clone)77 with ShieldPrototypeRight
+DEBUG:18.05:54:20: Collision occured Virus5(Clone)78 with ShieldPrototypeLeft
+DEBUG:18.05:54:21: Collision occured Virus1(Clone)75 with ShieldPrototypeRight
+DEBUG:18.05:54:21: Collision occured Virus4(Clone)83 with ShieldPrototypeRight
+DEBUG:18.05:54:22: Collision occured Virus3(Clone)73 with ShieldPrototypeLeft
+DEBUG:18.05:54:22: Collision occured Virus2(Clone)83 with TargetPanel
+DEBUG:18.05:54:24: Collision occured Virus5(Clone)85 with ShieldPrototypeRight
+DEBUG:18.05:54:25: Collision occured Virus4(Clone)88 with ShieldPrototypeLeft
+DEBUG:18.05:54:25: Collision occured Virus2(Clone)87 with ShieldPrototypeRight
+DEBUG:18.05:54:25: Collision occured Virus6(Clone)86 with ShieldPrototypeLeft
+DEBUG:18.05:54:25: Collision occured Virus3(Clone)84 with ShieldPrototypeLeft
+DEBUG:18.05:54:26: Collision occured Virus5(Clone) with ShieldPrototypeRight
+ERROR:18.05:54:26: Spawner LeftTowerBottom does not exist
+DEBUG:18.05:54:27: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:54:29: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:54:30: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:54:30: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:54:30: Collision occured Virus2(Clone)91 with ShieldPrototypeRight
+DEBUG:18.05:54:32: Collision occured Virus6(Clone)89 with ShieldPrototypeRight
+DEBUG:18.05:54:32: Collision occured Virus6(Clone)98 with ShieldPrototypeLeft
+DEBUG:18.05:54:32: Collision occured Virus5(Clone)101 with ShieldPrototypeRight
+DEBUG:18.05:54:33: Collision occured Virus6(Clone)92 with ShieldPrototypeLeft
+DEBUG:18.05:54:35: Collision occured Virus5(Clone)103 with ShieldPrototypeLeft
+DEBUG:18.05:54:35: Collision occured Virus6(Clone)100 with ShieldPrototypeRight
+ERROR:18.05:54:35: Spawner LeftTowerBottom does not exist
+ERROR:18.05:54:35: Failed to connect to server 
+LOG:18.05:54:35: Connecting to = 192.168.1.10
+DEBUG:18.05:54:36: Collision occured Virus4(Clone)104 with TargetPanel
+DEBUG:18.05:54:37: Collision occured Virus3(Clone)100 with ShieldPrototypeLeft
+DEBUG:18.05:54:37: Collision occured Virus3(Clone)100 with ShieldPrototypeLeft
+DEBUG:18.05:54:37: Collision occured Virus2(Clone)99 with ShieldPrototypeRight
+DEBUG:18.05:54:38: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:54:38: Collision occured Virus1(Clone)91 with ShieldPrototypeLeft
+DEBUG:18.05:54:38: Collision occured Virus4(Clone)106 with ShieldPrototypeRight
+DEBUG:18.05:54:39: Collision occured Virus2(Clone)103 with ShieldPrototypeLeft
+DEBUG:18.05:54:39: Collision occured Virus3(Clone)93 with ShieldPrototypeRight
+DEBUG:18.05:54:39: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:54:40: Collision occured Virus3(Clone)95 with ShieldPrototypeRight
+DEBUG:18.05:54:40: Collision occured Virus6(Clone)110 with TargetPanel
+DEBUG:18.05:54:40: Collision occured Virus1(Clone)94 with ShieldPrototypeRight
+DEBUG:18.05:54:41: Collision occured Virus3(Clone)96 with ShieldPrototypeRight
+DEBUG:18.05:54:41: Collision occured Virus5(Clone) with ShieldPrototypeLeft
+DEBUG:18.05:54:42: Collision occured Virus5(Clone) with ShieldPrototypeRight
+DEBUG:18.05:54:43: Collision occured Virus3(Clone)106 with ShieldPrototypeLeft
+DEBUG:18.05:54:43: Collision occured Virus5(Clone)108 with ShieldPrototypeLeft
+DEBUG:18.05:54:43: Collision occured Virus6(Clone)108 with ShieldPrototypeLeft
+DEBUG:18.05:54:44: Collision occured Virus4(Clone)118 with TargetPanel
+DEBUG:18.05:54:44: Collision occured Virus5(Clone)112 with ShieldPrototypeRight
+DEBUG:18.05:54:45: Collision occured Virus4(Clone)114 with TargetPanel
+DEBUG:18.05:54:45: Collision occured Virus6(Clone)118 with TargetPanel
+DEBUG:18.05:54:46: Collision occured Virus5(Clone)117 with ShieldPrototypeRight
+LOG:18.05:54:49: Continue screen is disabled
+DEBUG:18.05:54:50: LevelStage:Continue: called
+ERROR:18.05:54:54: Failed to connect to server 
+LOG:18.05:54:54: Connecting to = 192.168.1.10
+ERROR:18.05:55:12: Failed to connect to server 
+LOG:18.05:55:12: Connecting to = 192.168.1.10
+LOG:18.05:55:29: Continue screen is disabled
+DEBUG:18.05:55:29: LevelStage:Continue: called
+ERROR:18.05:55:30: Failed to connect to server 
+LOG:18.05:55:30: Connecting to = 192.168.1.10
+LOG:18.05:55:33: Continue screen is disabled
+DEBUG:18.05:55:33: LevelStage:Continue: called
+LOG:18.05:55:33: Last page reached load staging area
+LOG:18.05:55:33: GameManager Stage ended Level01 : StagingArea
+ERROR:18.05:55:33: GameManager: ScoreSender is missing in the scene. Has a network connection been established?
+LOG:18.05:55:33: Deleted current player, Loading staging area
+LOG:18.05:55:33: Attempting load scene StagingArea
+ERROR:18.05:55:34: Clip ThreatManager does not exist
+ERROR:18.05:55:48: Failed to connect to server 
+LOG:18.05:55:49: Connecting to = 192.168.1.10

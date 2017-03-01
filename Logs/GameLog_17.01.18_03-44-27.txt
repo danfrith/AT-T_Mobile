@@ -1,0 +1,8 @@
+WARNING:18.03:44:27: Logging enabled
+ERROR:18.03:44:27: Clip ThreatManager does not exist
+LOG:18.03:44:27: Attempting client connection
+LOG:18.03:44:27: Connecting to = 192.168.1.10
+LOG:18.03:44:27: Beggining current player file search
+LOG:18.03:44:28: Attempting to open file CurrentPlaye
+LOG:18.03:44:28: Loading entries from CurrentPlayer Encryption: False
+LOG:18.03:44:28: 0 Registrants loaded 

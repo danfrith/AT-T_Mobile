@@ -1,0 +1,2 @@
+WARNING:28.10:21:06: Logging enabled
+ERROR:28.10:21:06: ScoreBoardManager is missing in Scoreboard ScoreBoardMobile

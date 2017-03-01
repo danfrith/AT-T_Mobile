@@ -1,0 +1,346 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000014113448764}
+  m_IsPrefabParent: 1
+--- !u!1 &1000014113448764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011618046158}
+  - 114: {fileID: 114000013245551536}
+  - 114: {fileID: 114000013366916848}
+  - 114: {fileID: 114000013861927278}
+  - 114: {fileID: 114000010633918042}
+  - 114: {fileID: 114000012651391956}
+  - 82: {fileID: 82000014201510354}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000011618046158
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014113448764}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.44515625, y: -2.5948868, z: -1.7053754}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!82 &82000014201510354
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014113448764}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: fab541c771e17474e97560715355b429, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &114000010633918042
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014113448764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c645a5b89d0fb164fb1f3b66721bb90d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_NetworkPort: 7777
+  m_ServerBindToIP: 0
+  m_ServerBindAddress: 
+  m_NetworkAddress: localhost
+  m_DontDestroyOnLoad: 1
+  m_RunInBackground: 1
+  m_ScriptCRCCheck: 1
+  m_MaxDelay: 0.01
+  m_LogLevel: 2
+  m_PlayerPrefab: {fileID: 1000012492459822, guid: 68b33e7e84fc7ac4cacb19f1c1c4ae62,
+    type: 2}
+  m_AutoCreatePlayer: 1
+  m_PlayerSpawnMethod: 0
+  m_OfflineScene: 
+  m_OnlineScene: 
+  m_SpawnPrefabs: []
+  m_CustomConfig: 0
+  m_MaxConnections: 4
+  m_ConnectionConfig:
+    m_PacketSize: 1500
+    m_FragmentSize: 500
+    m_ResendTimeout: 1200
+    m_DisconnectTimeout: 2000
+    m_ConnectTimeout: 2000
+    m_MinUpdateTimeout: 10
+    m_PingTimeout: 500
+    m_ReducedPingTimeout: 100
+    m_AllCostTimeout: 20
+    m_NetworkDropThreshold: 5
+    m_OverflowDropThreshold: 5
+    m_MaxConnectionAttempt: 10
+    m_AckDelay: 33
+    m_MaxCombinedReliableMessageSize: 100
+    m_MaxCombinedReliableMessageCount: 10
+    m_MaxSentMessageQueueSize: 128
+    m_IsAcksLong: 0
+    m_UsePlatformSpecificProtocols: 0
+    m_WebSocketReceiveBufferMaxSize: 0
+    m_Channels: []
+  m_GlobalConfig:
+    m_ThreadAwakeTimeout: 1
+    m_ReactorModel: 0
+    m_ReactorMaximumReceivedMessages: 1024
+    m_ReactorMaximumSentMessages: 1024
+    m_MaxPacketSize: 2000
+  m_Channels: 
+  m_UseWebSockets: 0
+  m_UseSimulator: 0
+  m_SimulatedLatency: 1
+  m_PacketLossPercentage: 0
+  m_MaxBufferedPackets: 16
+  m_AllowFragmentation: 1
+  m_MatchHost: mm.unet.unity3d.com
+  m_MatchPort: 443
+  matchName: default
+  matchSize: 4
+  isNetworkActive: 0
+  matchMaker: {fileID: 0}
+  server: 0
+  Port: 7777
+--- !u!114 &114000012651391956
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014113448764}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 227461547, guid: 870353891bb340e2b2a9c8707e7419ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  manager: {fileID: 0}
+  showGUI: 1
+  offsetX: 0
+  offsetY: 0
+--- !u!114 &114000013245551536
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014113448764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b727530c779f99848b3e06e7680e8a84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DebugEnabled: 0
+  StagingScene: StagingArea
+  Level01: Level01
+  PlayerName: PlayerName
+  StartWithoutCurrentPlayer: 0
+  Test: 0
+--- !u!114 &114000013366916848
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014113448764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2157c54537e781a429f0da0e03c268b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClips:
+  - Name: Testclip
+    AudioClip: {fileID: 0}
+  - Name: Click
+    AudioClip: {fileID: 8300000, guid: 4635d36339bcb7f41bb131557f9b0499, type: 3}
+  - Name: Exit
+    AudioClip: {fileID: 0}
+  - Name: VirusHitShield
+    AudioClip: {fileID: 8300000, guid: 5bf0f287d9d7c534bbc5d5dde9b757da, type: 3}
+  - Name: VirusHitScreen
+    AudioClip: {fileID: 8300000, guid: 11537da83812c5443ac785f42d884f31, type: 3}
+  - Name: VirusSpawn
+    AudioClip: {fileID: 8300000, guid: ea194dd9369d3164bba461b03b9038e0, type: 3}
+  - Name: CountDown
+    AudioClip: {fileID: 8300000, guid: 16f63a0da4a633e478e2c4543d14f09c, type: 3}
+  - Name: GameStart
+    AudioClip: {fileID: 8300000, guid: 209a299da6ab1b24f8495f77b1cbcd4d, type: 3}
+  - Name: GameFinished
+    AudioClip: {fileID: 8300000, guid: 3c56896a04a93824b9af3b19dff7721a, type: 3}
+  - Name: empty
+    AudioClip: {fileID: 8300000, guid: fae54cc387b81fa418a3c998f745aa7e, type: 3}
+  - Name: DroneAmbient
+    AudioClip: {fileID: 8300000, guid: ce0de6a31a2256e4690207245166ae33, type: 3}
+  - Name: BGM1B
+    AudioClip: {fileID: 8300000, guid: 347cc0c4fbe036145870142c40fe26f2, type: 3}
+  - Name: BGM2B
+    AudioClip: {fileID: 8300000, guid: dca357967b4282449a4a65be1f86668e, type: 3}
+  - Name: Ambience
+    AudioClip: {fileID: 0}
+  - Name: VOControls
+    AudioClip: {fileID: 0}
+  - Name: VOIntroduction
+    AudioClip: {fileID: 8300000, guid: d86615f53ec84104e96e8bb1a6707f7a, type: 3}
+  - Name: VOThreats
+    AudioClip: {fileID: 8300000, guid: b6f114846631f8043bb8b7c8bbb83f26, type: 3}
+  - Name: VOTools
+    AudioClip: {fileID: 8300000, guid: 14842ccb44d6dab4b98f00c046df1f3a, type: 3}
+  - Name: VOActivatingShields
+    AudioClip: {fileID: 8300000, guid: 36e5ad4cf53caba4caf2c702fd603923, type: 3}
+  - Name: VirusHitShield01
+    AudioClip: {fileID: 8300000, guid: 2a2db8d76364d0340aaf6be84e40cff9, type: 3}
+  - Name: VirusHitShield02
+    AudioClip: {fileID: 8300000, guid: 65130397d4eaf3d4d886141a9324c922, type: 3}
+  - Name: VirusHitShield03
+    AudioClip: {fileID: 8300000, guid: 206d2d16b65b133439c06999997187a7, type: 3}
+  - Name: VirusHitShield04
+    AudioClip: {fileID: 8300000, guid: bfcee0a4ba4020544b716a3b1fb8505c, type: 3}
+  - Name: VirusHitShield05
+    AudioClip: {fileID: 8300000, guid: 124863f5a96c41546b70fb2a1df0185e, type: 3}
+  - Name: VirusHitShield06
+    AudioClip: {fileID: 8300000, guid: 5bd679fde30ef8e4c9168333f5f2574d, type: 3}
+  - Name: VirusSpawn01
+    AudioClip: {fileID: 8300000, guid: 35d61c2cf61665a48b5ebd0b78c3d9de, type: 3}
+  - Name: VirusSpawn02
+    AudioClip: {fileID: 8300000, guid: 5876bf16bb15e6d438ea69447e2f32cf, type: 3}
+  - Name: VirusSpawn03
+    AudioClip: {fileID: 8300000, guid: 32f87ebb744bc6843b3361300532e5a1, type: 3}
+  - Name: VirusSpawn04
+    AudioClip: {fileID: 8300000, guid: 416d036554dd83941853ecde22f5d356, type: 3}
+  - Name: VirusSpawn05
+    AudioClip: {fileID: 8300000, guid: 558716a645e02734b839235d5bdc93c8, type: 3}
+  - Name: VirusSpawn06
+    AudioClip: {fileID: 8300000, guid: 42514766178532144859b33ff8c65a30, type: 3}
+  - Name: BGM1A
+    AudioClip: {fileID: 8300000, guid: 426f580e7935d0544aa6285fb62da8c1, type: 3}
+  - Name: BGM2A
+    AudioClip: {fileID: 8300000, guid: 98bc2b78961ea05418e6a6dffafb6e57, type: 3}
+  - Name: VO_GoodLuck
+    AudioClip: {fileID: 8300000, guid: afb7c9968205e26409a13b1223650115, type: 3}
+  - Name: VO_EndIncomplete
+    AudioClip: {fileID: 8300000, guid: 76f27c0575095ab4796f446c60fc6498, type: 3}
+  - Name: VO_Complete
+    AudioClip: {fileID: 8300000, guid: 26a2c77e073b55a469ef35e23f527f0b, type: 3}
+--- !u!114 &114000013861927278
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014113448764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a6a70209b6e6345bfe18b02314a54e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelName: 
+  internalProcessPath: 
+  internalProcessArgs: 
+  loadAdditive: 0
+  loadAsync: 1
+  loadingScreen: {fileID: 2800000, guid: 17da6d53ec93a0444bd0f751b1d02477, type: 3}
+  progressBarEmpty: {fileID: 0}
+  progressBarFull: {fileID: 0}
+  loadingScreenWidthInMeters: 6
+  progressBarWidthInMeters: 3
+  loadingScreenDistance: 0
+  loadingScreenTransform: {fileID: 0}
+  progressBarTransform: {fileID: 0}
+  front: {fileID: 0}
+  back: {fileID: 2800000, guid: cb4be078515bacf4ebf178b6843ad75e, type: 3}
+  left: {fileID: 2800000, guid: 684d8cb2acc726a43ba3d5192aa69bab, type: 3}
+  right: {fileID: 2800000, guid: 74902e6431d56094c844aacdcd45b13b, type: 3}
+  top: {fileID: 2800000, guid: dfdf93da3bb9de946982c63e66124b4e, type: 3}
+  bottom: {fileID: 2800000, guid: ad4cccfed0cfd9d47b8718fd229e55fc, type: 3}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 1}
+  showGrid: 0
+  fadeOutTime: 0.5
+  fadeInTime: 0.5
+  postLoadSettleTime: 0
+  loadingScreenFadeInTime: 1
+  loadingScreenFadeOutTime: 0.25
+  autoTriggerOnEnable: 0

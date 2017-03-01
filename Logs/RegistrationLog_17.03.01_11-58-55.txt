@@ -1,0 +1,3 @@
+WARNING:01.11:58:55: Logging enabled
+LOG:01.11:59:05: Loading
+LOG:01.11:59:06: MobileStage: Current level 0 world 0

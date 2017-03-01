@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: 0110aeda03fdb514f997a080b6a1165e
+timeCreated: 1475577934
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Attack1
+    100002: Attack2
+    100004: Attack3
+    100006: Attack4
+    100008: Attack5
+    100010: Attack6
+    100012: //RootNode
+    400000: Attack1
+    400002: Attack2
+    400004: Attack3
+    400006: Attack4
+    400008: Attack5
+    400010: Attack6
+    400012: //RootNode
+    2300000: Attack1
+    2300002: Attack2
+    2300004: Attack3
+    2300006: Attack4
+    2300008: Attack5
+    2300010: Attack6
+    3300000: Attack1
+    3300002: Attack2
+    3300004: Attack3
+    3300006: Attack4
+    3300008: Attack5
+    3300010: Attack6
+    4300000: Attack1
+    4300002: Attack2
+    4300004: Attack3
+    4300006: Attack4
+    4300008: Attack5
+    4300010: Attack6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

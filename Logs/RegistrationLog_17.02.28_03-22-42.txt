@@ -1,0 +1,1 @@
+WARNING:28.03:22:42: Logging enabled

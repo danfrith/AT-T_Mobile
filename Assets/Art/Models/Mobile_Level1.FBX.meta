@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 3b73276fb1f7f374d9d8ea04b563429f
+timeCreated: 1480087165
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MobileLevel1_WINDOWS
+    100004: SpawnerLines
+    100006: SkyCube_Level1
+    100008: DataSphere
+    100010: WallData01_Level1
+    100012: CopperWires
+    100014: Windows
+    100016: CopperWire_BEHIND
+    100018: CopperWires_BEHIND
+    100020: NetworkLandscape
+    400000: //RootNode
+    400002: MobileLevel1_WINDOWS
+    400004: SpawnerLines
+    400006: SkyCube_Level1
+    400008: DataSphere
+    400010: WallData01_Level1
+    400012: CopperWires
+    400014: Windows
+    400016: CopperWire_BEHIND
+    400018: CopperWires_BEHIND
+    400020: NetworkLandscape
+    2300000: //RootNode
+    2300002: MobileLevel1_WINDOWS
+    2300004: SpawnerLines
+    2300006: SkyCube_Level1
+    2300008: DataSphere
+    2300010: WallData01_Level1
+    2300012: CopperWires
+    2300014: Windows
+    2300016: CopperWire_BEHIND
+    2300018: CopperWires_BEHIND
+    2300020: NetworkLandscape
+    3300000: //RootNode
+    3300002: MobileLevel1_WINDOWS
+    3300004: SpawnerLines
+    3300006: SkyCube_Level1
+    3300008: DataSphere
+    3300010: WallData01_Level1
+    3300012: CopperWires
+    3300014: Windows
+    3300016: CopperWire_BEHIND
+    3300018: CopperWires_BEHIND
+    3300020: NetworkLandscape
+    4300000: MobileLevel1
+    4300002: MobileLevel1_WINDOWS
+    4300004: SpawnerLines
+    4300006: SkyCube_Level1
+    4300008: DataSphere
+    4300010: WallData01_Level1
+    4300012: CopperWires
+    4300014: Windows
+    4300016: CopperWire_BEHIND
+    4300018: CopperWires_BEHIND
+    4300020: NetworkLandscape
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

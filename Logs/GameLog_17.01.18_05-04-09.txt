@@ -1,0 +1,12 @@
+WARNING:18.05:04:09: Logging enabled
+ERROR:18.05:04:09: Clip ThreatManager does not exist
+LOG:18.05:04:09: Attempting client connection
+LOG:18.05:04:09: Connecting to = 192.168.1.10
+LOG:18.05:04:09: Beggining current player file search
+LOG:18.05:04:10: Attempting to open file CurrentPlaye
+LOG:18.05:04:10: Loading entries from CurrentPlayer Encryption: False
+LOG:18.05:04:10: 0 Registrants loaded 
+LOG:18.05:04:22: GameManager Stage ended TutorialStage : StagingArea
+LOG:18.05:04:22: Attempting load scene Level01
+ERROR:18.05:04:23: Clip ThreatManager does not exist
+ERROR:18.05:04:28: Failed to connect to server 

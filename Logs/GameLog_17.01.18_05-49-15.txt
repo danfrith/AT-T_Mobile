@@ -1,0 +1,4 @@
+WARNING:18.05:49:15: Logging enabled
+ERROR:18.05:49:15: Clip ThreatManager does not exist
+ERROR:18.05:49:15: Failed to connect to server 
+LOG:18.05:49:16: Connecting to = 192.168.1.10

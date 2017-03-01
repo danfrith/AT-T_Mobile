@@ -1,0 +1,6 @@
+WARNING:10.10:59:56: Logging enabled
+ERROR:10.10:59:56: Clip ThreatManager does not exist
+LOG:10.10:59:56: Attempting client connection
+LOG:10.10:59:56: Connecting to = 192.168.1.10
+LOG:10.11:00:02: GameManager: Checking level nameTutorialStage
+LOG:10.11:00:02: Beggining current player file search

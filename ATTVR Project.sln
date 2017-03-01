@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATTVR Project.Plugins", "ATTVR Project.Plugins.csproj", "{F653B28A-2DE9-481B-357C-ED3E4E14258C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATTVR Project", "ATTVR Project.csproj", "{8B43E267-6DAC-319B-A5C3-25DB990BD62A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATTVR Project.Editor.Plugins", "ATTVR Project.Editor.Plugins.csproj", "{ED652A19-C1E4-1F2A-1401-C4FC258B0867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATTVR Project.Editor", "ATTVR Project.Editor.csproj", "{5E36F68E-E430-5925-13DD-7BC8E072D869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F653B28A-2DE9-481B-357C-ED3E4E14258C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F653B28A-2DE9-481B-357C-ED3E4E14258C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F653B28A-2DE9-481B-357C-ED3E4E14258C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F653B28A-2DE9-481B-357C-ED3E4E14258C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B43E267-6DAC-319B-A5C3-25DB990BD62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B43E267-6DAC-319B-A5C3-25DB990BD62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B43E267-6DAC-319B-A5C3-25DB990BD62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B43E267-6DAC-319B-A5C3-25DB990BD62A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED652A19-C1E4-1F2A-1401-C4FC258B0867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED652A19-C1E4-1F2A-1401-C4FC258B0867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED652A19-C1E4-1F2A-1401-C4FC258B0867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED652A19-C1E4-1F2A-1401-C4FC258B0867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E36F68E-E430-5925-13DD-7BC8E072D869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E36F68E-E430-5925-13DD-7BC8E072D869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E36F68E-E430-5925-13DD-7BC8E072D869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E36F68E-E430-5925-13DD-7BC8E072D869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

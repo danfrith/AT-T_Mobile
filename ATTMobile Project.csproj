@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{04C0F9BA-CE55-1EFC-5C6B-26FC45C18865}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile>Assets\smcs.rsp</CompilerResponseFile>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
+    <UnityVersion>5.5.0f3</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_0;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VIDEO;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE;</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_0;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VIDEO;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE;</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PlaymodeTestsRunner">
+      <HintPath>Library\UnityAssemblies\UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>Library\UnityAssemblies\UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VR">
+      <HintPath>Library\UnityAssemblies\UnityEngine.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="AWSSDK.CognitoIdentity">
+      <HintPath>Assets\AWSSDK\AWSSDK.CognitoIdentity.dll</HintPath>
+    </Reference>
+    <Reference Include="AWSSDK.CognitoSync">
+      <HintPath>Assets\AWSSDK\AWSSDK.CognitoSync.dll</HintPath>
+    </Reference>
+    <Reference Include="AWSSDK.Core">
+      <HintPath>Assets\AWSSDK\AWSSDK.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="AWSSDK.SecurityToken">
+      <HintPath>Assets\AWSSDK\AWSSDK.SecurityToken.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-UnityScript-firstpass">
+      <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="ATTMobile Project.Plugins.csproj">
+      <Project>{61B3FE62-CD57-E7E0-02B8-3714355585D9}</Project>
+      <Name>ATTMobile Project.Plugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.avcodec.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.avdevice.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.avfilter.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.avformat.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.avutil.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.swresample.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\FFmpeg.swscale.g.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\Properties\AssemblyInfo.cs" />
+    <Compile Include="Assets\EasyMovieTexture\FFmpeg.AutoGen\Unresolved.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\MedaiPlayerSampleGUI.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\MedaiPlayerSampleSphereGUI.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\MediaPlayerCtrl.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\MediaPlayerEvent.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\MediaPlayerFullScreenCtrl.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\SeekBarCtrl.cs" />
+    <Compile Include="Assets\EasyMovieTexture\Scripts\SphereMirror.cs" />
+    <Compile Include="Assets\Examples\CognitoSyncManagerSample.cs" />
+    <Compile Include="Assets\LogoHolder.cs" />
+    <Compile Include="Assets\PopulationSystem\Code\MouseLookAdvanced.cs" />
+    <Compile Include="Assets\PopulationSystem\Code\MovePath.cs" />
+    <Compile Include="Assets\PopulationSystem\Code\NewPath.cs" />
+    <Compile Include="Assets\PopulationSystem\Code\PeopleController.cs" />
+    <Compile Include="Assets\PopulationSystem\Code\PopulationSystemManager.cs" />
+    <Compile Include="Assets\PopulationSystem\Code\StandingPeopleConcert.cs" />
+    <Compile Include="Assets\PopulationSystem\Code\StandingPeopleStreet.cs" />
+    <Compile Include="Assets\PopulationSystem\Code\WalkPath.cs" />
+    <Compile Include="Assets\Prefabs\ScoreBoard\NetworkTests\SetServer.cs" />
+    <Compile Include="Assets\Prefabs\ScoreBoard\NetworkTests\TestNetworkBehavior.cs" />
+    <Compile Include="Assets\Scripts\AI\AIBase.cs" />
+    <Compile Include="Assets\Scripts\AI\AIGoTo.cs" />
+    <Compile Include="Assets\Scripts\AI\AITarget.cs" />
+    <Compile Include="Assets\Scripts\Effects\DestroyThisTimed.cs" />
+    <Compile Include="Assets\Scripts\Effects\Detach.cs" />
+    <Compile Include="Assets\Scripts\Effects\DetachAndDie.cs" />
+    <Compile Include="Assets\Scripts\Effects\FadeInFadeOutDestroy.cs" />
+    <Compile Include="Assets\Scripts\Effects\Flash.cs" />
+    <Compile Include="Assets\Scripts\Effects\FlashOnHit.cs" />
+    <Compile Include="Assets\Scripts\Effects\GlowEditScript.cs" />
+    <Compile Include="Assets\Scripts\Effects\LightPulseFactory.cs" />
+    <Compile Include="Assets\Scripts\Effects\PointToPoint.cs" />
+    <Compile Include="Assets\Scripts\Effects\RandomForce.cs" />
+    <Compile Include="Assets\Scripts\Effects\RandomRotation.cs" />
+    <Compile Include="Assets\Scripts\Effects\Rotate.cs" />
+    <Compile Include="Assets\Scripts\Effects\ScaleAnimator.cs" />
+    <Compile Include="Assets\Scripts\Effects\SoundEffectObject.cs" />
+    <Compile Include="Assets\Scripts\Effects\UVAnimator.cs" />
+    <Compile Include="Assets\Scripts\Effects\Wander.cs" />
+    <Compile Include="Assets\Scripts\GameObject\DontDestroyOnLoad.cs" />
+    <Compile Include="Assets\Scripts\GameObject\Singleton.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\AudioClipPlayer.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Controller\ModelController.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\DebugDisable.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\LivesCounter.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Mobile\DefenceScreenCamShakeOnHit.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Mobile\LevelCamera.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Mobile\LevelCameraPosition.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Mobile\MobileStage.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Mobile\MobileStageGenerator.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\NoPlayerSetText.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\ResumeMusicOnSceneChange.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Spawner\MobSpawner.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Spawner\PathList.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Spawner\Person.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Spawner\ProxySpawner.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\Spawner\SpawnerAnimator.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\TargetScreen.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\VirusBase.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\VirusMovement\MovementSpeed.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\VirusMovement\Spiral.cs" />
+    <Compile Include="Assets\Scripts\GamePlay\VirusMovement\ZigZag.cs" />
+    <Compile Include="Assets\Scripts\Manager\AudioList.cs" />
+    <Compile Include="Assets\Scripts\Manager\ClientScoreSender.cs" />
+    <Compile Include="Assets\Scripts\Manager\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\LevelStage.cs" />
+    <Compile Include="Assets\Scripts\Manager\MobileGameManager.cs" />
+    <Compile Include="Assets\Scripts\Manager\ScoreBoardReciever.cs" />
+    <Compile Include="Assets\Scripts\Manager\ScoreSender.cs" />
+    <Compile Include="Assets\Scripts\Manager\ScoreSenderPrototype.cs" />
+    <Compile Include="Assets\Scripts\Manager\StandardStage.cs" />
+    <Compile Include="Assets\Scripts\Manager\TutorialStage.cs" />
+    <Compile Include="Assets\Scripts\Mobile\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\Mobile\CameraPointOfInterest.cs" />
+    <Compile Include="Assets\Scripts\Mobile\EndGameScreen.cs" />
+    <Compile Include="Assets\Scripts\Mobile\EscapeButtonHandler.cs" />
+    <Compile Include="Assets\Scripts\Mobile\FPSDisplay.cs" />
+    <Compile Include="Assets\Scripts\Mobile\HapticFeedback.cs" />
+    <Compile Include="Assets\Scripts\Mobile\Joystick.cs" />
+    <Compile Include="Assets\Scripts\Mobile\LoadingScreen.cs" />
+    <Compile Include="Assets\Scripts\Mobile\PauseScreen.cs" />
+    <Compile Include="Assets\Scripts\Mobile\ScoreManager.cs" />
+    <Compile Include="Assets\Scripts\Mobile\Serialization\fsData.cs" />
+    <Compile Include="Assets\Scripts\Mobile\Serialization\fsJsonParser.cs" />
+    <Compile Include="Assets\Scripts\Mobile\Serialization\fsJsonPrinter.cs" />
+    <Compile Include="Assets\Scripts\Mobile\Serialization\fsResult.cs" />
+    <Compile Include="Assets\Scripts\Mobile\ShieldBody.cs" />
+    <Compile Include="Assets\Scripts\Mobile\ShieldTouchTrack.cs" />
+    <Compile Include="Assets\Scripts\Mobile\SocialMediaManager.cs" />
+    <Compile Include="Assets\Scripts\PlayMoveTexture.cs" />
+    <Compile Include="Assets\Scripts\UI\CongratulationsScreen.cs" />
+    <Compile Include="Assets\Scripts\UI\CountdownText.cs" />
+    <Compile Include="Assets\Scripts\UI\DebugPage.cs" />
+    <Compile Include="Assets\Scripts\UI\DisplayVirusProxy.cs" />
+    <Compile Include="Assets\Scripts\UI\IngameScoreView.cs" />
+    <Compile Include="Assets\Scripts\UI\IngameTimerView.cs" />
+    <Compile Include="Assets\Scripts\UI\InitSpawnPrefab.cs" />
+    <Compile Include="Assets\Scripts\UI\MenuBase.cs" />
+    <Compile Include="Assets\Scripts\UI\Menus\ButtonPrefabSpawner.cs" />
+    <Compile Include="Assets\Scripts\UI\Menus\IngameCanvasColours.cs" />
+    <Compile Include="Assets\Scripts\UI\Menus\LevelSelection\LevelSelectButton.cs" />
+    <Compile Include="Assets\Scripts\UI\Menus\LevelSelection\LevelSelectScreen.cs" />
+    <Compile Include="Assets\Scripts\UI\Menus\LevelSelection\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\UI\Menus\LevelSelection\SubmitScoreScreen.cs" />
+    <Compile Include="Assets\Scripts\UI\Menus\LevelSelection\WorldItem.cs" />
+    <Compile Include="Assets\Scripts\UI\Menus\MenuButtonResposition.cs" />
+    <Compile Include="Assets\Scripts\UI\Menus\MenuController.cs" />
+    <Compile Include="Assets\Scripts\UI\Menus\SetColourForWorld.cs" />
+    <Compile Include="Assets\Scripts\UI\OpenMenuOnKey.cs" />
+    <Compile Include="Assets\Scripts\UI\PageTurner\PageTurner.cs" />
+    <Compile Include="Assets\Scripts\UI\ProgressBar.cs" />
+    <Compile Include="Assets\Scripts\UI\PulsingImage.cs" />
+    <Compile Include="Assets\Scripts\UI\PulsingText.cs" />
+    <Compile Include="Assets\Scripts\UI\RectRansformTool.cs" />
+    <Compile Include="Assets\Scripts\UI\Registration\CurrentPlayer.cs" />
+    <Compile Include="Assets\Scripts\UI\Registration\QueueItem.cs" />
+    <Compile Include="Assets\Scripts\UI\Registration\QueueScript.cs" />
+    <Compile Include="Assets\Scripts\UI\Registration\RegistrationForm.cs" />
+    <Compile Include="Assets\Scripts\UI\ResultsScreen\ResultsScreen.cs" />
+    <Compile Include="Assets\Scripts\UI\ResultsScreen\ResultsScreenItem.cs" />
+    <Compile Include="Assets\Scripts\UI\ScoreBoard\ClientViewItem.cs" />
+    <Compile Include="Assets\Scripts\UI\ScoreBoard\ScoreBoard.cs" />
+    <Compile Include="Assets\Scripts\UI\ScoreBoard\ScoreBoardItem.cs" />
+    <Compile Include="Assets\Scripts\UI\ScoreBoard\ServerAdminPage.cs" />
+    <Compile Include="Assets\Scripts\UI\SettingsScreen\VolumeSliderChanged.cs" />
+    <Compile Include="Assets\Scripts\UI\StartOfAppScreen.cs" />
+    <Compile Include="Assets\Scripts\UI\YesNoDialogue\YesNoDialogue.cs" />
+    <Compile Include="Assets\Scripts\Utilities\Ease.cs" />
+    <Compile Include="Assets\Scripts\Utilities\Logger.cs" />
+    <Compile Include="Assets\Scripts\Utilities\Utilities.cs" />
+    <Compile Include="Assets\Scripts\Utilities\VectorUtil.cs" />
+    <Compile Include="Assets\Scripts\VRInteraction\VRControllerManager.cs" />
+    <Compile Include="Assets\Scripts\VRInteraction\VRGripper.cs" />
+    <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
+    <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
+    <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
+    <Compile Include="Assets\SteamVR\Extras\SteamVR_TestThrow.cs" />
+    <Compile Include="Assets\SteamVR\Extras\SteamVR_TestTrackedCamera.cs" />
+    <Compile Include="Assets\SteamVR\Extras\SteamVR_TrackedController.cs" />
+    <Compile Include="Assets\SteamVR\Plugins\openvr_api.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Camera.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_CameraFlip.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_CameraMask.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Controller.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_ControllerManager.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Ears.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_ExternalCamera.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Fade.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Frustum.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_GameView.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_IK.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_LoadLevel.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Menu.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Overlay.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_PlayArea.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Render.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_RenderModel.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Skybox.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_SphericalProjection.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Stats.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Status.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_StatusText.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_TestController.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_TrackedCamera.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_TrackedObject.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_UpdatePoses.cs" />
+    <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
+    <Compile Include="Assets\VRInteractions\Examples\Assets\Scripts\Bob.cs" />
+    <Compile Include="Assets\_MK\_MKGlow\_Demo\Code\MK_DemoControl.cs" />
+    <Compile Include="Assets\_MK\_MKGlow\_Demo\Code\MK_RotateObject.cs" />
+    <Compile Include="Assets\_MK\_MKGlow\_Internal\MKGlow.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Art\Animations\empty.txt" />
+    <None Include="Assets\Art\Materials\empty.txt" />
+    <None Include="Assets\Art\Models\Materials\Mobile\AlphaSelfIllum.shader" />
+    <None Include="Assets\Art\PlaceholderAssets\empty.txt" />
+    <None Include="Assets\Art\Sounds\SoundEffects\empty.txt" />
+    <None Include="Assets\Art\Textures\empty.txt" />
+    <None Include="Assets\EasyMovieTexture\Chromakey.shader" />
+    <None Include="Assets\EasyMovieTexture\Chromakey2.shader" />
+    <None Include="Assets\EasyMovieTexture\Unlit_SphereInside.shader" />
+    <None Include="Assets\EasyMovieTexture\readme.txt" />
+    <None Include="Assets\EasyMovieTexture\readme_License.txt" />
+    <None Include="Assets\Examples\License.txt" />
+    <None Include="Assets\Plugins\Android\AN_Res\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\Android\AN_Res\res\values\analytics.xml" />
+    <None Include="Assets\Plugins\Android\AN_Res\res\values\ids.xml" />
+    <None Include="Assets\Plugins\Android\AN_Res\res\values\version.xml" />
+    <None Include="Assets\Plugins\Android\AN_Res\res\xml\file_paths.xml" />
+    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\StansAssets\Modules\AndroidNative\Documentation\AN_VersionNotes.txt" />
+    <None Include="Assets\Plugins\StansAssets\Modules\AndroidNative\Documentation\ReadMe.txt" />
+    <None Include="Assets\Plugins\StansAssets\Modules\IOSDeploy\Documentation\ReadMe.txt" />
+    <None Include="Assets\Plugins\StansAssets\Modules\IOSNative\Documentation\ISN_VersionNotes.txt" />
+    <None Include="Assets\Plugins\StansAssets\Modules\IOSNative\Documentation\ReadMe.txt" />
+    <None Include="Assets\Plugins\StansAssets\Modules\ManifestManager\default.xml" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\AN_Res\AndroidManifest.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\AN_Res\res\values\analytics.xml" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\AN_Res\res\values\ids.xml" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\AN_Res\res\values\version.xml" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\AN_Res\res\xml\file_paths.xml" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\AndroidManifest.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\androidnative.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\androidnative.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\app_licensing\an_licensing_library.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\billing\an_billing.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\billing\an_billing.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\firebase\firebase-analytics-impl.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\firebase\firebase-analytics.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\firebase\firebase-common.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\firebase\firebase-iid.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\an_googleplay.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\an_googleplay.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-ads-lite.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-ads-lite.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-ads.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-ads.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-analytics-impl.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-analytics-impl.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-analytics.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-analytics.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-appinvite.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-appinvite.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-auth-base.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-auth-base.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-auth.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-auth.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-base.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-base.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-basement.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-basement.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-drive.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-drive.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-games.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-games.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-gcm.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-gcm.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-iid.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-iid.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-plus.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\google_play\play-services-plus.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\libs\an_sa_soomla.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\libs\android-support-v4.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\libs\image-chooser-library-1.6.0.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\libs\support-v4-24.0.0.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\social\an_social.jar.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\social\an_social.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\NativeLibraries\Android\social\twitter4j-core-4.0.4.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\Versions\AN_VersionInfo.txt" />
+    <None Include="Assets\Plugins\StansAssets\Support\Versions\MSP_VersionInfo.txt" />
+    <None Include="Assets\Prefabs\Admin\empty.txt" />
+    <None Include="Assets\Prefabs\Managers\empty.txt" />
+    <None Include="Assets\Scenes\AdminScenes\empty.txt" />
+    <None Include="Assets\Scenes\ScoreBoardScenes\empty.txt" />
+    <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
+    <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistortLate.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceRaytrace.cginc" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SepiaToneEffect.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\TwirlEffect.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
+    <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
+    <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
+    <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
+    <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
+    <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
+    <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
+    <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
+    <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
+    <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
+    <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
+    <None Include="Assets\SteamVR\Resources\SteamVR_AlphaOut.shader" />
+    <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
+    <None Include="Assets\SteamVR\Resources\SteamVR_ColorOut.shader" />
+    <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
+    <None Include="Assets\SteamVR\Resources\SteamVR_SphericalProjection.shader" />
+    <None Include="Assets\SteamVR\readme.txt" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Cutout\MK_Cutout-Diffuse.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Cutout\MK_Cutout-DiffuseBumpSpec.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Cutout\MK_Cutout-DiffuseBumped.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Cutout\MK_Cutout-Glossy.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Cutout\MK_Cutout-SoftEdgeUnlit.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Emission\MK_Emission-Diffuse.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Illumin\MK_Illumin-Diffuse.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Illumin\MK_Illumin-DiffuseBumpSpec.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Illumin\MK_Illumin-DiffuseBumped.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Illumin\MK_Illumin-Glossy.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Illumin\MK_Illumin-Parallax.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Illumin\MK_Illumin-ParallaxSpec.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Lightmapped\MK_Lightmap-Diffuse.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Lightmapped\MK_Lightmap-DiffuseBumped.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Mobile\MK_Mobile-Diffuse.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Mobile\MK_Mobile-DiffuseBumpSpec-1DirectionalLight.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Mobile\MK_Mobile-DiffuseBumpSpec.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Mobile\MK_Mobile-DiffuseBumped.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Normal\MK_Normal-Diffuse.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Normal\MK_Normal-DiffuseBumpRim.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Normal\MK_Normal-DiffuseBumpSpec.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Normal\MK_Normal-DiffuseBumped.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Normal\MK_Normal-DiffuseDetail.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Normal\MK_Normal-DiffuseRim.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Normal\MK_Normal-Glossy.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Normal\MK_Normal-Parallax.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Normal\MK_Normal-ParallaxSpec.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Particles\MK_Particles-Additive.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Particles\MK_Particles-AdditiveBlend.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Particles\MK_Particles-AdditiveMultiply.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Particles\MK_Particles-AdditiveSoft.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Particles\MK_Particles-Blend.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Particles\MK_Particles-MulitplyDouble.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Particles\MK_Particles-Multiply.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Particles\MK_Particles-PremultiplyBlend.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Reflective\MK_Reflective-Diffuse.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Reflective\MK_Reflective-DiffuseBumpSpec.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Reflective\MK_Reflective-DiffuseBumped.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Reflective\MK_Reflective-DiffuseBumpedNoLight.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Reflective\MK_Reflective-Glossy.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Reflective\MK_Reflective-Parallax.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Reflective\MK_Reflective-ParallaxSpec.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Sprites\MK_Sprite-Default.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Sprites\MK_Sprite-Diffuse.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Toon\MK_Toon-Basic.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Toon\MK_Toon-BasicOutline.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Transparent\MK_Transparent-Diffuse.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Transparent\MK_Transparent-DiffuseBumpRim.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Transparent\MK_Transparent-DiffuseBumpSpec.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Transparent\MK_Transparent-DiffuseBumped.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Transparent\MK_Transparent-DiffuseRim.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Transparent\MK_Transparent-Glossy.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Transparent\MK_Transparent-Parallax.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Transparent\MK_Transparent-ParallaxSpec.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Unlit\MK_Unlit-Normal.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Unlit\MK_Unlit-Transparent.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKBase\Unlit\MK_Unlit-TransparentCutout.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKGlowEffect\MKGlowBlur.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKGlowEffect\MKGlowBlurVHP.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKGlowEffect\MKGlowCompose.shader" />
+    <None Include="Assets\_MK\_MKGlow\_Shader\_MKGlowEffect\MKGlowRender.shader" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+</Project>

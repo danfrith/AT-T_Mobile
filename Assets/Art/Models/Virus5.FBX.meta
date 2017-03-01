@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 18bc532b61383694cba93cb4184685e4
+timeCreated: 1475680033
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Virus5_01
+    100004: Virus5_02
+    100006: Virus5_03
+    100008: Virus5_04
+    100010: Virus5_05
+    100012: Virus5_06
+    100014: Virus5_07
+    100016: Virus5_08
+    100018: Virus5_09
+    100020: Virus5_10
+    100022: Virus5_11
+    100024: Virus5_12
+    100026: Virus5_13
+    100028: Virus5_14
+    100030: Virus5_15
+    100032: Virus5_16
+    400000: //RootNode
+    400002: Virus5_01
+    400004: Virus5_02
+    400006: Virus5_03
+    400008: Virus5_04
+    400010: Virus5_05
+    400012: Virus5_06
+    400014: Virus5_07
+    400016: Virus5_08
+    400018: Virus5_09
+    400020: Virus5_10
+    400022: Virus5_11
+    400024: Virus5_12
+    400026: Virus5_13
+    400028: Virus5_14
+    400030: Virus5_15
+    400032: Virus5_16
+    2300000: //RootNode
+    2300002: Virus5_01
+    2300004: Virus5_02
+    2300006: Virus5_03
+    2300008: Virus5_04
+    2300010: Virus5_05
+    2300012: Virus5_06
+    2300014: Virus5_07
+    2300016: Virus5_08
+    2300018: Virus5_09
+    2300020: Virus5_10
+    2300022: Virus5_11
+    2300024: Virus5_12
+    2300026: Virus5_13
+    2300028: Virus5_14
+    2300030: Virus5_15
+    2300032: Virus5_16
+    3300000: //RootNode
+    3300002: Virus5_01
+    3300004: Virus5_02
+    3300006: Virus5_03
+    3300008: Virus5_04
+    3300010: Virus5_05
+    3300012: Virus5_06
+    3300014: Virus5_07
+    3300016: Virus5_08
+    3300018: Virus5_09
+    3300020: Virus5_10
+    3300022: Virus5_11
+    3300024: Virus5_12
+    3300026: Virus5_13
+    3300028: Virus5_14
+    3300030: Virus5_15
+    3300032: Virus5_16
+    4300000: Virus5
+    4300002: Virus5_16
+    4300004: Virus5_03
+    4300006: Virus5_05
+    4300008: Virus5_09
+    4300010: Virus5_08
+    4300012: Virus5_14
+    4300014: Virus5_10
+    4300016: Virus5_12
+    4300018: Virus5_04
+    4300020: Virus5_02
+    4300022: Virus5_06
+    4300024: Virus5_07
+    4300026: Virus5_11
+    4300028: Virus5_13
+    4300030: Virus5_01
+    4300032: Virus5_15
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 86
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Virus5_01
+        weight: 1
+      - path: Virus5_02
+        weight: 1
+      - path: Virus5_03
+        weight: 1
+      - path: Virus5_04
+        weight: 1
+      - path: Virus5_05
+        weight: 1
+      - path: Virus5_06
+        weight: 1
+      - path: Virus5_07
+        weight: 1
+      - path: Virus5_08
+        weight: 1
+      - path: Virus5_09
+        weight: 1
+      - path: Virus5_10
+        weight: 1
+      - path: Virus5_11
+        weight: 1
+      - path: Virus5_12
+        weight: 1
+      - path: Virus5_13
+        weight: 1
+      - path: Virus5_14
+        weight: 1
+      - path: Virus5_15
+        weight: 1
+      - path: Virus5_16
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

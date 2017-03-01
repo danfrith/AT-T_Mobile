@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bb7ac0abbd1a08a4a9bef2ba53ea01f0
+timeCreated: 1477919345
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Omnes_ATT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7af8fd83789b3b142baaf6cd558d44d0, type: 3}
+  - {fileID: 12800000, guid: 732b88961681a4a4491850c52d5c1035, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

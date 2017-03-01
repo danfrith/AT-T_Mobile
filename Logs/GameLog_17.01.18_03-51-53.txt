@@ -1,0 +1,23 @@
+WARNING:18.03:51:53: Logging enabled
+ERROR:18.03:51:53: Clip ThreatManager does not exist
+LOG:18.03:51:53: Attempting client connection
+LOG:18.03:51:53: Connecting to = 192.168.1.10
+LOG:18.03:51:53: Beggining current player file search
+LOG:18.03:51:54: Attempting to open file CurrentPlaye
+LOG:18.03:51:54: Loading entries from CurrentPlayer Encryption: False
+LOG:18.03:51:54: 0 Registrants loaded 
+ERROR:18.03:52:11: Failed to connect to server 
+LOG:18.03:52:11: Connecting to = 192.168.1.10
+DEBUG:18.03:52:16: Collision occured Virus1(Clone)2 with ShieldPrototypeRight
+DEBUG:18.03:52:23: Collision occured Virus1(Clone)3 with TargetPanel
+DEBUG:18.03:52:25: Collision occured Virus1(Clone)4 with ShieldPrototypeRight
+DEBUG:18.03:52:26: Collision occured Virus1(Clone)5 with TargetPanel
+DEBUG:18.03:52:28: Collision occured Virus1(Clone)6 with ShieldPrototypeRight
+ERROR:18.03:52:29: Failed to connect to server 
+LOG:18.03:52:29: Connecting to = 192.168.1.10
+DEBUG:18.03:52:31: Collision occured Virus1(Clone)8 with ShieldPrototypeRight
+DEBUG:18.03:52:32: Collision occured Virus1(Clone)7 with ShieldPrototypeRight
+LOG:18.03:52:35: GameManager Stage ended TutorialStage : StagingArea
+LOG:18.03:52:35: Attempting load scene Level01
+LOG:18.03:52:45: GameManager Stage ended TutorialStage : StagingArea
+LOG:18.03:52:45: Attempting load scene Level01
